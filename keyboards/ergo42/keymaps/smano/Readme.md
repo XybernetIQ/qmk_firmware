@@ -1,4 +1,4 @@
-# My Ergo42 Towel keymap
+# My Ergo42 smano keymap
 
 ## BASE layer
 
